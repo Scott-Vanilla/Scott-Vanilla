@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Scott-Vanilla
 - 👀 I’m interested in React Web Development
-- 🌱 I’m currently learning Feature Hub
+- 🌱 I’m currently invested in learning about Lerna and Monorepos
 - 💞️ I’m looking to collaborate on some projects in the future but not right now
 - 📫 How to reach me: scotthughesljmu@gmail.com
 
