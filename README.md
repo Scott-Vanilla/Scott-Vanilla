@@ -1,7 +1,6 @@
 <div align="center">
 <img hight="300" width="1200" alt="PNG" align="center" src="https://raw.githubusercontent.com/Scott-Vanilla/Scott-Vanilla/master/main-banner.png">
 </div>
-### 👋 Hi, I’m @Scott-Vanilla
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://raw.githubusercontent.com/Scott-Vanilla/Scott-Vanilla/master/luffy.gif">
 </div>
