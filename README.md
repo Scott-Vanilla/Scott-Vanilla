@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Scott-Vanilla
+### 👋 Hi, I’m @Scott-Vanilla
 - NOTE: None of the following apps here are at industry standard but rather are quickly generated POCs
 - 👀 I’m interested in React Web Development, Typescript, AWS Lambda
 - 🌱 I’m currently invested in learning about GraphQL
