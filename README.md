@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on some projects in the future but not right now
 - 📫 How to reach me: scotthughesljmu@gmail.com
 
-### CURRENT DEVELOPMENT PROJECT URLS
+### Current Developments & URLs
 - Passé: A journey to the past - https://passe-green.vercel.app/ - v0.1-beta - Abstract: A web app used to provide comfort for those suffering with demetia by showing music performances from remembered years.
 - SMP: Scott MacDonald Portfolio - https://smp-new.vercel.app/ - v2.1.0 - Abstract: Portfolio highlighting web apps and skills
 - Thoth: Computational/Logic puzzles - Not yet deployed - Not yet versioned - Abstract: Computational/Logic puzzles tournaments
