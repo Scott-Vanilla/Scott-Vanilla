@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @Scott-Vanilla
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://www.reddit.com/r/MemePiece/comments/15t3r68/one_piece_episode_1072_gifs/">
+<img hight="300" width="700" alt="GIF" align="center" src="https://raw.githubusercontent.com/Scott-Vanilla/Scott-Vanilla/master/luffy.gif">
 </div>
 - NOTE: None of the following apps here are at industry standard but rather are quickly generated POCs
 - 👀 I’m interested in React & Next.js Web Development, Typescript, AWS Lambda
