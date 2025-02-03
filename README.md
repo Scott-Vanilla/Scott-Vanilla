@@ -11,6 +11,18 @@
 - 💞️ I’m looking to collaborate on some projects in the future but not right now
 - 📫 How to reach me: scotthughesljmu@gmail.com
 
+## :link: Links
+
+<p align="center">
+  <a href="https://smp-new.vercel.app/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="portfolio"/></a>
+  <a href="mailto:scotthughesljmu@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/scottmacdev24/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://x.com/scottmac_dev"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.instagram.com/scottmacdonalddev"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+</p>
+
+Icons by [https://icons8.com](https://icons8.com)
+
 ### Current Developments & URLs
 - Passé: A journey to the past - https://passe-green.vercel.app/ - v0.1-beta - Abstract: A web app used to provide comfort for those suffering with demetia by showing music performances from remembered years.
 - SMP: Scott MacDonald Portfolio - https://smp-new.vercel.app/ - v2.1.0 - Abstract: Portfolio highlighting web apps and skills
