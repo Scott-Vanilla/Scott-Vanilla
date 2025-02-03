@@ -6,6 +6,8 @@
 <img hight="300" width="700" alt="GIF" align="center" src="https://raw.githubusercontent.com/Scott-Vanilla/Scott-Vanilla/master/luffy.gif">
 </div>
 
+<br/>
+
 <p> - NOTE: None of the following apps here are at industry standard but rather are quickly generated POCs </p>
 <p> - 👀 I’m interested in React & Next.js Web Development, Typescript, AWS Lambda </p>
 <p> - 🌱 I’m currently invested in learning about GraphQL, Auth.js </p>
