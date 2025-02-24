@@ -3,7 +3,7 @@
 </div>
 <br/><br/>
 <div align="center">
-<img hight="150" width="350" alt="GIF" align="center" src="https://raw.githubusercontent.com/Scott-Vanilla/Scott-Vanilla/master/luffy.gif">
+<img hight="250" width="600" alt="GIF" align="center" src="https://raw.githubusercontent.com/Scott-Vanilla/Scott-Vanilla/master/luffy.gif">
 </div>
 
 <br/>
